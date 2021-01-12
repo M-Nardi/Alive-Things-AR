@@ -18,7 +18,7 @@ A game made to learn biology in school classes in a fun way using AR.
 <p>Just download it in your Android Phone and Play. The instructions of the game can be seen in "Como jogar" button.<p>
 
 
-<h1>APK Alive Things Features implemented/not implemented</h1>
+<h1>APK Alive Things Features implemented/not implemented yet</h1>
 <p>✔ Main screen design</p>
 <p>✔ How to play button</p>
 <p>✔ Print QR codes button (redirects to a drive to download mammals animals)</p>
