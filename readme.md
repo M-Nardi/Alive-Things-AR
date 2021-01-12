@@ -5,15 +5,17 @@ Jogo de realidade aumentada para aprender biologia. Made with unity, C# and Vufo
 A game made to learn biology in school classes in a fun way using AR. 
 
 <h2>How does it works?</h2>
-You will need to print the QR codes and choose a type of a living being when you select the play button. Once the "Play Button" is selected, the back camera will open. A robot will start to talk abourt the physical and behavioal characteristics of one living being, the player needs to aim the camera to the respective QR code of the animal that matches the descriptions that the robot said (when you aim to the QR code you will be able to see the animal in your camera tridimensionaly). If you aim on the right QR code you'll get a point, if you miss, you'll lose a point.
+<p>You will need to print the QR codes and choose a type of a living being when selected play button. Once the "Play Button" is selected, the back camera will open.</p>
+<p>A robot will start to talk abourt the physical and behavioal characteristics of one living being, the player needs to aim the camera to the respective QR code of the animal that matches the descriptions that the robot said (when you aim to the QR code you will be able to see the animal in your camera tridimensionaly). If you aim on the right QR code you'll get a point, if you miss, you'll lose a point.</p>
 
-The development isn't complete. Be free to use it, i hope that will help you with some pendent questions in your project.
+<p>The development isn't complete. Be free to use it, i hope that will help you with some pendent questions in your project.<p>
 
 <h2>Versions</h2>
-There are two versions, the .exe version is the alpha version and it's made to test usability. The "play button" doesn't work and it's got a simple design.
-To acess the .exe version, follow path: "Desktop_Version\obj\Debug" and open "trabalho.exe"
-
-The second version, is an APK version wich is more complete. Just download it in your Android Phone and Play. The instructions of the game can be seen in "Como jogar" button.
+<p>There are two versions, the .exe version is the alpha version and it's made to test usability. The "play button" doesn't work and it's got a simple design.<p>
+<p>To acess the .exe version, follow path: *"Desktop_Version\obj\Debug"* and open *"trabalho.exe"*<p>
+<p></p>
+<p>The second version, is an APK version wich is more complete.<p> 
+<p>Just download it in your Android Phone and Play. The instructions of the game can be seen in "Como jogar" button.<p>
 
 
 <h1>APK Alive Things Features implemented/not implemented</h1>
@@ -35,20 +37,26 @@ The second version, is an APK version wich is more complete. Just download it in
 
 
 <p>**Main menu Screen**</p>
+
 ![Image of Main Menu](https://github.com/M-Nardi/Alive-Things-AR/blob/master/Images/Main%20Menu%20screen.jpg)
 
 <p>**How to play Screen**</p>
+
 ![Image of How to Play](https://github.com/M-Nardi/Alive-Things-AR/blob/master/Images/How%20to%20play%20screen.jpg)
 
 <p>**Print QR code Button**</p>
-![Image of ](https://github.com/M-Nardi/Alive-Things-AR/blob/master/Images/Print%20QR%20codes%20page.jpg)
+
+![Image of Play Button](https://github.com/M-Nardi/Alive-Things-AR/blob/master/Images/Print%20QR%20codes%20page.jpg)
 
 <p>**Play button -> Select gamemode**</p>
-![Image of ](https://github.com/M-Nardi/Alive-Things-AR/blob/master/Images/Select%20gamemode%20screen.jpg)
+
+![Image of ScreenGame01](https://github.com/M-Nardi/Alive-Things-AR/blob/master/Images/Select%20gamemode%20screen.jpg)
 
 <p>**Play screen 01**</p>
-![Image of ](https://github.com/M-Nardi/Alive-Things-AR/blob/master/Images/Play%20Screen%2001.jpg)
+
+![Image of ScreenGame02](https://github.com/M-Nardi/Alive-Things-AR/blob/master/Images/Play%20Screen%2001.jpg)
 
 <p>**Play screen 02**</p>
-![Image of ](https://github.com/M-Nardi/Alive-Things-AR/blob/master/Images/Play%20Screen%2002.jpg)
+
+![Image of Play Screen](https://github.com/M-Nardi/Alive-Things-AR/blob/master/Images/Play%20Screen%2002.jpg)
 
