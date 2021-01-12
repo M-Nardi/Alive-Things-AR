@@ -12,7 +12,7 @@ A game made to learn biology in school classes in a fun way using AR.
 
 <h2>Versions</h2>
 <p>There are two versions, the .exe version is the alpha version and it's made to test usability. The "play button" doesn't work and it's got a simple design.<p>
-<p>To acess the .exe version, follow path: *"Desktop_Version\obj\Debug"* and open *"trabalho.exe"*<p>
+<p>To acess the .exe version, follow path: "Desktop_Version\obj\Debug" and open "trabalho.exe"<p>
 <p></p>
 <p>The second version, is an APK version wich is more complete.<p> 
 <p>Just download it in your Android Phone and Play. The instructions of the game can be seen in "Como jogar" button.<p>
@@ -36,27 +36,27 @@ A game made to learn biology in school classes in a fun way using AR.
 <h1>.APK Alive Things AR game pictures</h1>
 
 
-<p>**Main menu Screen**</p>
+<p>Main menu Screen</p>
 
 ![Image of Main Menu](https://github.com/M-Nardi/Alive-Things-AR/blob/master/Images/Main%20Menu%20screen.jpg)
 
-<p>**How to play Screen**</p>
+<p>How to play Screen</p>
 
 ![Image of How to Play](https://github.com/M-Nardi/Alive-Things-AR/blob/master/Images/How%20to%20play%20screen.jpg)
 
-<p>**Print QR code Button**</p>
+<p>Print QR code Button</p>
 
 ![Image of Play Button](https://github.com/M-Nardi/Alive-Things-AR/blob/master/Images/Print%20QR%20codes%20page.jpg)
 
-<p>**Play button -> Select gamemode**</p>
+<p>Play button -> Select gamemode</p>
 
 ![Image of ScreenGame01](https://github.com/M-Nardi/Alive-Things-AR/blob/master/Images/Select%20gamemode%20screen.jpg)
 
-<p>**Play screen 01**</p>
+<p>Play screen 01</p>
 
 ![Image of ScreenGame02](https://github.com/M-Nardi/Alive-Things-AR/blob/master/Images/Play%20Screen%2001.jpg)
 
-<p>**Play screen 02**</p>
+<p>Play screen 02</p>
 
 ![Image of Play Screen](https://github.com/M-Nardi/Alive-Things-AR/blob/master/Images/Play%20Screen%2002.jpg)
 
