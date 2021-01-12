@@ -1,5 +1,6 @@
 # Alive-Things-AR
-Jogo de realidade aumentada para aprender biologia. Made with unity, C# and Vuforia.
+Jogo de realidade aumentada para aprender biologia. 
+<p>Made with unity, C# and Vuforia.<p>
 
 <h2>Game purpose</h2>
 A game made to learn biology in school classes in a fun way using AR. 
